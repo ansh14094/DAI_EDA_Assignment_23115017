@@ -3,6 +3,8 @@
 
 ### Important 
 A separate report file has not been created, as all outcomes and analyses have been documented within the ipynb files as text cells accompanying the code. Additionally, all cell outputs were cleared prior to uploading the notebooks; therefore, visualizations and results are not visible in the current version. Kindly execute the notebooks to generate and view the outputs.
+Please execute files in order DataCleaning -> UnivariateAnalysis -> BivariateAnalysis -> MultivariateAnalysis to get proper outputs.
+
 
 ## Employee Attrition Analysis - IBM HR Dataset  
 
