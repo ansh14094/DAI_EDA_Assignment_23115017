@@ -1,11 +1,14 @@
 # DAI_EDA_Assignment_23115017  
 **DAI Assignment - Ansh Jain (23115017) CSE**  
 
+### Important 
+A separate report file has not been created, as all outcomes and analyses have been documented within the ipynb files as text cells accompanying the code. Additionally, all cell outputs were cleared prior to uploading the notebooks; therefore, visualizations and results are not visible in the current version. Kindly execute the notebooks to generate and view the outputs.
+
 ## Employee Attrition Analysis - IBM HR Dataset  
 
 ## Overview  
 
-This project analyzes employee attrition patterns in the IBM HR Analytics Employee Attrition & Performance dataset to identify factors influencing employee turnover and recommend actionable strategies for retention.  
+This assignment analyses employee attrition patterns in the IBM HR Analytics Employee Attrition & Performance dataset to identify factors influencing employee turnover and recommend actionable strategies for retention.  
 
 ---  
 
